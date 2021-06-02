@@ -1,0 +1,26 @@
+
+
+.card{
+    width: 200px;
+    height: 200px;
+    position:relative;
+    float: left;
+    margin: 40px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 10px rgb(247, 240, 240);
+}
+.card-header{
+    color: brown;
+}
+.img{
+    width: 180px;
+    height: 100px;
+}
+.card-author{
+    color: green;
+    text-align: center;
+}
+.card-footer{
+    color:red;
+    text-align: center;
+}
